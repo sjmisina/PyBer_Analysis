@@ -35,6 +35,4 @@ Based on this analysis, we offer the following takeaways:
   * Primary revenue generation certainly comes from servicing the Urban areas; however this is where the highest concentration of drivers are as well. Average fare per driver being less that the aver fare per ride may suggest that the market is saturated with drivers.
   * Total fares are consistently presented across the timeline for the three classes, with the exception of April where there is fluxuation in the Urban sector. This could present opportunity to manage availablity according to the time of year regarding civic activity.  
   * Average fare per driver in Rural areas is much higher than the average fare per ride, possibly indicating that there could be opportunity in expansion in rural markets.
-  
-
-- End
+ 
