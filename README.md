@@ -22,7 +22,7 @@ Urban city fares make up the bulk of all individual rides for the region at abou
 
 With a the greater business being had in Urban areas, we see average fare per ride and per driver ranking lower than the Suburban and Rural areas greatly, with the highest average fair per driver coming in the Rural areas at $55.49, followed by Suburban at $39.50, and $16.57 for Urban drivers.  
   
-![Total Fares by Week](/analysis/fare_by_type.png "Line Graph - total fares by week"). 
+![Total Fares by Week](/analysis/fare_by_type.png "Line Graph - total fares by week")  
   
 Total Fares incoming for PyBer is consistently distributed across the city types over the timeframe with only occassional deviations (see Rural fares at the beginning of April). There is further evidence of some volitility with Urban fares which we recommend reviewing this data against events in these areas that could effect these results.  
 
