@@ -9,7 +9,7 @@ Source Code: Python v. 3.8.8 with libs: pandas as pd, and matplotlib.pyplot as p
 Project Date: 2021-07-13  
   
 ### Abstract  
-We have been tasked with providing analysis of PyBer ride-sharing data across the first four months of Y2019 (Jan-Mar). We provided this overview focused on the three city 'types' as defined by PyBer: Urban, Suburban, and Rural.  
+We have been tasked with providing analysis of ride-sharing data across the first four months of Y2019 (Jan-Mar) for PyBer. We provide this overview focused on the three city 'types' as defined by PyBer: Urban, Suburban, and Rural.  
   
 Found herein is an analysis for the three city types for the time period. We have also provided a multiple-line graph to demonstrate the total weekly fares over this time period by city type.  
   
