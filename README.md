@@ -20,7 +20,7 @@ Found herein is an over analysis for the three city types for the time period. W
   
 Urban city fares make up the bulk of all individual rides for the region at about 72%, with Suburban providing 27% and Rural contributing just over 5% of overall business. Number of drivers totally servicing the analyized area is naturally skewed toward the Urban cities, accounting for just under 81% of the total drivers, followed by Suburban and Rural at 16% and less than 1% respectively.
 
-With a the greater business being had in Urban areas, we see average fare per ride and per driver ranking lower than the Suburban and Rural areas greatly, with the highest average fair per driver coming in the Rural areas at $55.49, followed by Suburban at $39.50, and $16.57 for Urban drivers.  
+With greater business being had in Urban areas, we see average fare per ride and per driver ranking lower than the Suburban and Rural areas greatly, with the highest average fair per driver coming in the Rural areas at $55.49, followed by Suburban at $39.50, and $16.57 for Urban drivers.  
   
 ![Total Fares by Week](/analysis/fare_by_type.png "Line Graph - total fares by week")  
   
